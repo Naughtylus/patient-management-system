@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/dVmMLUc.png" alt="project-screenshot" width="800" height="800/">
+<img src="https://i.imgur.com/dVmMLUc.png" alt="project-screenshot">
   
 <h2>🧐 Features</h2>
 
