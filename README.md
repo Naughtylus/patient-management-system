@@ -42,7 +42,3 @@ Technologies used in the project:
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT License
-
-<h2>💖Like my work?</h2>
-
-Buy me a coffee at https://www.buymeacoffee.com/cheeonn<p><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP25hbWU9Y2hlZW9ubiZzaXplPTMwMCZiZy1pbWFnZT1ibWMmYmFja2dyb3VuZD1CRDVGRkY=&amp;creator=cheeonn&amp;is_creating=creating%20Software%20Codes&amp;design_code=1&amp;design_color=%23BD5FFF&amp;slug=cheeonn" alt="Buy me a cofee"><a href="https://www.buymeacoffee.com/cheeonn"></a></p>
